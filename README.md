@@ -7,4 +7,3 @@
   - ACM AI
   - IEEE Micromouse
 - In my free time, I enjoy making music, spending time outdoors, gaming, and reading.
-- Reach out to me at maxinewu@gmail.com!
