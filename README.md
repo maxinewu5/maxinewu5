@@ -3,7 +3,6 @@
 - My name is Maxine (she/her), and I'm a computer engineering undergraduate at UCLA!
 - I love making cool stuff! I'm interested in human-computer interaction and how computer see and interact with our world (robotics + computer vision). 
 - Some of the cool things I'm currently doing: 
-  - ELFIN CubeSat
-  - ACM AI
-  - IEEE Micromouse
+  - GNC Developer @ ELFIN CubeSat 
+  - Officer @ ACM AI 
 - In my free time, I enjoy making music, spending time outdoors, gaming, and reading.
